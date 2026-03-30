@@ -104,7 +104,7 @@ export default function LandingPage() {
       testimonials={[
         {
           id: "t1",          name: "Lilah M.",          role: "Collector",          company: "Antique Enthusiast",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-bearded-male-owner-standing-his-shop_23-2148175671.jpg"},
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-bearded-male-owner-standing-his-shop_23-2148175671.jpg?_wi=1"},
         {
           id: "t2",          name: "Kaylin C.",          role: "Homeowner",          company: "Interior Design Fan",          rating: 5,
           imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-antique-store_23-2149640741.jpg"},
@@ -116,7 +116,7 @@ export default function LandingPage() {
           imageSrc: "http://img.b2bpic.net/free-photo/smiling-young-female-window-shopping_23-2147968448.jpg"},
         {
           id: "t5",          name: "Elena R.",          role: "Designer",          company: "Vintage Stylist",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-bearded-male-owner-standing-his-shop_23-2148175671.jpg"},
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-bearded-male-owner-standing-his-shop_23-2148175671.jpg?_wi=2"},
       ]}
       title="Hear From Our Collectors"
       description="Discover why our community keeps coming back for more."
