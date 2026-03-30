@@ -103,7 +103,7 @@ export default function LandingPage() {
       animationType="slide-up"
       testimonials={[
         {
-          id: "t1",          name: "Lilah M.",          role: "Collector",          company: "Antique Enthusiast",          rating: 5,
+          id: "t1",          name: "Perry M.",          role: "Collector",          company: "Antique Enthusiast",          rating: 5,
           imageSrc: "http://img.b2bpic.net/free-photo/portrait-bearded-male-owner-standing-his-shop_23-2148175671.jpg?_wi=1"},
         {
           id: "t2",          name: "Kaylin C.",          role: "Homeowner",          company: "Interior Design Fan",          rating: 5,
