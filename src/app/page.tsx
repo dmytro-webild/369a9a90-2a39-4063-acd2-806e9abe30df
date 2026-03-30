@@ -129,7 +129,7 @@ export default function LandingPage() {
           role: "Collector",
           company: "Antique Enthusiast",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-bearded-male-owner-standing-his-shop_23-2148175671.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-bearded-male-owner-standing-his-shop_23-2148175671.jpg?_wi=1",
         },
         {
           id: "t2",
@@ -161,7 +161,7 @@ export default function LandingPage() {
           role: "Designer",
           company: "Vintage Stylist",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-bearded-male-owner-standing-his-shop_23-2148175671.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-bearded-male-owner-standing-his-shop_23-2148175671.jpg?_wi=2",
         },
       ]}
       title="Hear From Our Collectors"
