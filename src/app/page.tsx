@@ -37,7 +37,7 @@ export default function LandingPage() {
         {
           name: "Contact",          id: "contact"},
       ]}
-      brandName="The Last Chapter"
+      brandName="The Last Chapter Business Solutions"
     />
   </div>
 
@@ -110,13 +110,13 @@ export default function LandingPage() {
           imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-antique-store_23-2149640741.jpg"},
         {
           id: "t3",          name: "Dana C.",          role: "Collector",          company: "Treasure Hunter",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-mature-couple-toasting-with-wine-before-family-lunch-kitchen-focus-is-man_637285-5862.jpg"},
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-buying-stuff-decoration-store_1303-24634.jpg?id=10705042"},
         {
           id: "t4",          name: "Malachi B.",          role: "Visitor",          company: "Antique Seeker",          rating: 5,
           imageSrc: "http://img.b2bpic.net/free-photo/smiling-young-female-window-shopping_23-2147968448.jpg"},
         {
           id: "t5",          name: "Elena R.",          role: "Designer",          company: "Vintage Stylist",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-bearded-male-owner-standing-his-shop_23-2148175671.jpg?_wi=2"},
+          imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-posing-library_23-2148727808.jpg?id=10814998"},
       ]}
       title="Hear From Our Collectors"
       description="Discover why our community keeps coming back for more."
@@ -140,7 +140,7 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterCard
-      logoText="The Last Chapter"
+      logoText="The Last Chapter "
       copyrightText="© 2025 The Last Chapter Business Solutions"
     />
   </div>
